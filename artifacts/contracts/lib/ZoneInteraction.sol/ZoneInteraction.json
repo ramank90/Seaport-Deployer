@@ -1,0 +1,22 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ZoneInteraction",
+  "sourceName": "contracts/lib/ZoneInteraction.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "orderHash",
+          "type": "bytes32"
+        }
+      ],
+      "name": "InvalidRestrictedOrder",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122003351b9ef2d1767356f5ff7d1cbf94dea5812c14c11a9ac9c0a7b3e6d7d3f20e64736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122003351b9ef2d1767356f5ff7d1cbf94dea5812c14c11a9ac9c0a7b3e6d7d3f20e64736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
